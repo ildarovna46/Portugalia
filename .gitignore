@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Build / cache
+dist/
+.cache/
